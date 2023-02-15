@@ -1,0 +1,16 @@
+---
+title: Meg Branine
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## About Meg
+
+* PhD Candidate in Field of Microbiology
+* Studies bacterial-fungal interactions
+* Originally from Colorado
+
+
