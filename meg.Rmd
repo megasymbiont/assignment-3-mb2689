@@ -1,6 +1,9 @@
 ---
 title: Meg Branine
-output: html_document
+output: 
+  html_document:
+    theme:
+      bootswatch: superhero
 ---
 
 ```{r setup, include=FALSE}
