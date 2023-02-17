@@ -1,5 +1,5 @@
 ---
-title: "Name of Website"
+title: "Collaborative Website for NTRES 6100"
 output: 
   html_document:
     theme:
@@ -17,3 +17,13 @@ knitr::opts_chunk$set(echo = TRUE)
 ## **Ru Liu**
  
 # Link: https://github.com/thisisruliu
+<br>
+<br>
+<br>
+
+
+
+<center>![Cornell University](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.W2gzC9O4AZg2ZE4xEGIgJwHaFi%26pid%3DApi&f=1&ipt=1a972e7505d75fd09436067eae480b7f7d6f8569a4f7086fc9dc6be32b8e5b22&ipo=images)</center>
+
+
+
