@@ -10,7 +10,7 @@ navbar:
       href: Ru.html
 output:
   html_document:
-    theme: lumen
+    theme: yeti
     highlight: textmate
     toc: true 
     toc_float: true 

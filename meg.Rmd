@@ -3,7 +3,7 @@ title: Meg Branine
 output: 
   html_document:
     theme:
-      bootswatch: superhero
+      bootswatch: yeti
 ---
 
 ```{r setup, include=FALSE}

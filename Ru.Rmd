@@ -5,7 +5,7 @@ date: "2023-02-14"
 output: 
   html_document:
     theme:
-      bootswatch: superhero
+      bootswatch: yeti
 ---
 
 ```{r setup, include=FALSE}

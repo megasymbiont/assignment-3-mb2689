@@ -3,20 +3,28 @@ title: "Collaborative Website for NTRES 6100"
 output: 
   html_document:
     theme:
-      bootswatch: superhero
+      bootswatch: yeti
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+<br>
+<br>
 
-## **Meg Branine** 
+# **Meg Branine** 
+<br>
+<br>
 
-# Link: https://github.com/megasymbiont
+## Link: https://github.com/megasymbiont
+<br>
+<br>
 
-## **Ru Liu**
- 
-# Link: https://github.com/thisisruliu
+# **Ru Liu**
+<br>
+<br>
+
+## Link: https://github.com/thisisruliu
 <br>
 <br>
 <br>
